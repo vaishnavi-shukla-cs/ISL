@@ -1,4 +1,4 @@
-# ISL AI - Indian Sign Language Translator
+# ISL - Indian Sign Language Translator
 
 A real-time web app that translates Indian Sign Language (ISL) hand gestures
 into text using AI-powered hand tracking — all in your browser with just a webcam.
